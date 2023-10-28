@@ -1,0 +1,10 @@
+pyopenweather-0.1.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pyopenweather-0.1.1.dist-info/METADATA,sha256=3nLrKJZfrgKTm3dAlsNtEoAua1FmoBgHfZLhohJ9SKI,3577
+pyopenweather-0.1.1.dist-info/RECORD,,
+pyopenweather-0.1.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyopenweather-0.1.1.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+pyopenweather-0.1.1.dist-info/top_level.txt,sha256=ul77y1O_FvZNL2h0v3OTr6ihjgU9MAAaxQPgRaKP074,14
+pyopenweather/__init__.py,sha256=CE6kg2idKgYx6-movkxMP5CDJD2m47z_wo-sdQ-l0cI,43
+pyopenweather/__pycache__/__init__.cpython-311.pyc,,
+pyopenweather/__pycache__/weather.cpython-311.pyc,,
+pyopenweather/weather.py,sha256=F5gGytKFaC4t3vckoKnz7Sx5lgZjMXrj5I_HqQggQEw,6288
